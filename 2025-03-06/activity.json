@@ -1,0 +1,47 @@
+{
+  "date": "2025-03-06",
+  "projects": {
+    "foam_brain": {
+      "totalLinesAdded": 10,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\tony.dunsworth\\projects\\foam_brain\\assets\\follow_up_links.md": [
+          {
+            "timestamp": "2025-03-06T16:20:28.374Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\foam_brain\\assets\\follow_up_links.md",
+            "fileType": ".md",
+            "linesAdded": 10,
+            "linesRemoved": 0,
+            "projectName": "foam_brain",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "md"
+          }
+        ]
+      },
+      "languageStats": {
+        "md": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "c:\\Users\\tony.dunsworth\\projects\\foam_brain\\assets\\follow_up_links.md"
+      ],
+      "averageChangeSize": 10
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "md"
+  ]
+}
