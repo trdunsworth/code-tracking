@@ -1,0 +1,75 @@
+{
+  "date": "2025-03-26",
+  "projects": {
+    "cisp25": {
+      "totalLinesAdded": 40,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 4,
+      "files": {
+        "c:\\Users\\tony.dunsworth\\projects\\cisp25\\synth911gen.py": [
+          {
+            "timestamp": "2025-03-26T13:07:44.086Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\cisp25\\synth911gen.py",
+            "fileType": ".py",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "cisp25",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-26T13:10:30.383Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\cisp25\\synth911gen.py",
+            "fileType": ".py",
+            "linesAdded": 13,
+            "linesRemoved": 0,
+            "projectName": "cisp25",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-26T13:10:49.687Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\cisp25\\synth911gen.py",
+            "fileType": ".py",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "cisp25",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 4
+      },
+      "changeFrequency": {
+        "9": 4
+      },
+      "topFiles": [
+        "c:\\Users\\tony.dunsworth\\projects\\cisp25\\synth911gen.py"
+      ],
+      "averageChangeSize": 13.333333333333334
+    }
+  },
+  "totalActiveTime": 4,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    9
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
