@@ -1,0 +1,75 @@
+{
+  "date": "2025-03-31",
+  "projects": {
+    "synth_911data_gen": {
+      "totalLinesAdded": 82,
+      "totalLinesRemoved": 1,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\tony.dunsworth\\projects\\synth_911data_gen\\front_end.py": [
+          {
+            "timestamp": "2025-03-31T17:55:26.723Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\synth_911data_gen\\front_end.py",
+            "fileType": ".py",
+            "linesAdded": 81,
+            "linesRemoved": 0,
+            "projectName": "synth_911data_gen",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-31T17:55:41.744Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\synth_911data_gen\\front_end.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "synth_911data_gen",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-03-31T17:55:54.761Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\synth_911data_gen\\front_end.py",
+            "fileType": ".py",
+            "linesAdded": 0,
+            "linesRemoved": 1,
+            "projectName": "synth_911data_gen",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 2
+      },
+      "changeFrequency": {
+        "13": 2
+      },
+      "topFiles": [
+        "c:\\Users\\tony.dunsworth\\projects\\synth_911data_gen\\front_end.py"
+      ],
+      "averageChangeSize": 27.666666666666668
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    13
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
