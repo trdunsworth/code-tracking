@@ -2,9 +2,9 @@
   "date": "2025-04-09",
   "projects": {
     "synth_dist": {
-      "totalLinesAdded": 76,
+      "totalLinesAdded": 147,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalActiveTime": 11,
       "files": {
         "c:\\Users\\tony.dunsworth\\projects\\synth_dist\\synthdist\\main.py": [
           {
@@ -64,6 +64,50 @@
             },
             "duration": 3,
             "language": "toml"
+          },
+          {
+            "timestamp": "2025-04-09T15:07:24.230Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\synth_dist\\synthdist\\pyproject.toml",
+            "fileType": ".toml",
+            "linesAdded": 3,
+            "linesRemoved": 0,
+            "projectName": "synth_dist",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "toml"
+          }
+        ],
+        "c:\\Users\\tony.dunsworth\\projects\\synth_dist\\synthdist\\distribution_analysis.py": [
+          {
+            "timestamp": "2025-04-09T15:11:12.055Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\synth_dist\\synthdist\\distribution_analysis.py",
+            "fileType": ".py",
+            "linesAdded": 1,
+            "linesRemoved": 0,
+            "projectName": "synth_dist",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-09T15:11:14.929Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\synth_dist\\synthdist\\distribution_analysis.py",
+            "fileType": ".py",
+            "linesAdded": 67,
+            "linesRemoved": 0,
+            "projectName": "synth_dist",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
           }
         ]
       },
