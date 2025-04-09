@@ -1,0 +1,61 @@
+{
+  "date": "2025-04-09",
+  "projects": {
+    "synth_dist": {
+      "totalLinesAdded": 32,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 2,
+      "files": {
+        "c:\\Users\\tony.dunsworth\\projects\\synth_dist\\synthdist\\main.py": [
+          {
+            "timestamp": "2025-04-09T14:53:32.784Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\synth_dist\\synthdist\\main.py",
+            "fileType": ".py",
+            "linesAdded": 28,
+            "linesRemoved": 0,
+            "projectName": "synth_dist",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-09T14:54:58.517Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\synth_dist\\synthdist\\main.py",
+            "fileType": ".py",
+            "linesAdded": 4,
+            "linesRemoved": 0,
+            "projectName": "synth_dist",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 2,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 2
+      },
+      "changeFrequency": {
+        "10": 2
+      },
+      "topFiles": [
+        "c:\\Users\\tony.dunsworth\\projects\\synth_dist\\synthdist\\main.py"
+      ],
+      "averageChangeSize": 16
+    }
+  },
+  "totalActiveTime": 2,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
