@@ -2,13 +2,27 @@
   "date": "2025-04-11",
   "projects": {
     "synth_dist": {
-      "totalLinesAdded": 178,
+      "totalLinesAdded": 356,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
         "c:\\Users\\tony.dunsworth\\AppData\\Roaming\\Code\\User\\settings.json": [
           {
             "timestamp": "2025-04-11T14:46:12.776Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 178,
+            "linesRemoved": 0,
+            "projectName": "synth_dist",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          },
+          {
+            "timestamp": "2025-04-11T15:31:17.417Z",
             "fileName": "c:\\Users\\tony.dunsworth\\AppData\\Roaming\\Code\\User\\settings.json",
             "fileType": ".json",
             "linesAdded": 178,
