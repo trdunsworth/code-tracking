@@ -1,0 +1,47 @@
+{
+  "date": "2025-04-11",
+  "projects": {
+    "synth_dist": {
+      "totalLinesAdded": 178,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\tony.dunsworth\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-04-11T14:46:12.776Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 178,
+            "linesRemoved": 0,
+            "projectName": "synth_dist",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "json": 0
+      },
+      "changeFrequency": {
+        "10": 0
+      },
+      "topFiles": [
+        "c:\\Users\\tony.dunsworth\\AppData\\Roaming\\Code\\User\\settings.json"
+      ],
+      "averageChangeSize": 178
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "json"
+  ]
+}
