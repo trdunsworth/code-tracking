@@ -47,6 +47,39 @@
         "c:\\Users\\tony.dunsworth\\AppData\\Roaming\\Code\\User\\settings.json"
       ],
       "averageChangeSize": 95
+    },
+    "assets": {
+      "totalLinesAdded": 20,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\tony.dunsworth\\projects\\drddatascience\\assets\\cardiac_arrests.sql": [
+          {
+            "timestamp": "2025-04-14T13:42:02.209Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\drddatascience\\assets\\cardiac_arrests.sql",
+            "fileType": ".sql",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "assets",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          }
+        ]
+      },
+      "languageStats": {
+        "sql": 0
+      },
+      "changeFrequency": {
+        "9": 0
+      },
+      "topFiles": [
+        "c:\\Users\\tony.dunsworth\\projects\\drddatascience\\assets\\cardiac_arrests.sql"
+      ],
+      "averageChangeSize": 20
     }
   },
   "totalActiveTime": 1,
