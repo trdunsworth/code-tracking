@@ -1,0 +1,61 @@
+{
+  "date": "2025-04-15",
+  "projects": {
+    "assets": {
+      "totalLinesAdded": 22,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 1,
+      "files": {
+        "c:\\Users\\tony.dunsworth\\projects\\drddatascience\\assets\\cardiac_arrests.sql": [
+          {
+            "timestamp": "2025-04-15T14:20:01.250Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\drddatascience\\assets\\cardiac_arrests.sql",
+            "fileType": ".sql",
+            "linesAdded": 20,
+            "linesRemoved": 0,
+            "projectName": "assets",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-04-15T14:20:13.019Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\drddatascience\\assets\\cardiac_arrests.sql",
+            "fileType": ".sql",
+            "linesAdded": 2,
+            "linesRemoved": 0,
+            "projectName": "assets",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "sql"
+          }
+        ]
+      },
+      "languageStats": {
+        "sql": 1
+      },
+      "changeFrequency": {
+        "10": 1
+      },
+      "topFiles": [
+        "c:\\Users\\tony.dunsworth\\projects\\drddatascience\\assets\\cardiac_arrests.sql"
+      ],
+      "averageChangeSize": 11
+    }
+  },
+  "totalActiveTime": 1,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "sql"
+  ]
+}
