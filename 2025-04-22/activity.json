@@ -2,9 +2,9 @@
   "date": "2025-04-22",
   "projects": {
     "synth_911data_gen": {
-      "totalLinesAdded": 244,
+      "totalLinesAdded": 307,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 2,
+      "totalActiveTime": 5,
       "files": {
         "c:\\Users\\tony.dunsworth\\projects\\synth_911data_gen\\synth911gen.py": [
           {
@@ -35,6 +35,34 @@
               "removed": []
             },
             "duration": 2,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-04-22T13:56:13.493Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\synth_911data_gen\\CallType_Generator.sql",
+            "fileType": ".sql",
+            "linesAdded": 48,
+            "linesRemoved": 0,
+            "projectName": "synth_911data_gen",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          },
+          {
+            "timestamp": "2025-04-22T13:58:51.482Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\synth_911data_gen\\CallType_Generator.sql",
+            "fileType": ".sql",
+            "linesAdded": 15,
+            "linesRemoved": 0,
+            "projectName": "synth_911data_gen",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "sql"
           }
         ]
