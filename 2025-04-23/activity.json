@@ -75,6 +75,71 @@
         "c:\\Users\\tony.dunsworth\\projects\\synth_911data_gen\\synth911gen.py"
       ],
       "averageChangeSize": 126.5
+    },
+    "synth_dist": {
+      "totalLinesAdded": 270,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 5,
+      "files": {
+        "c:\\Users\\tony.dunsworth\\projects\\synth_dist\\synthdist\\distribution_analysis.py": [
+          {
+            "timestamp": "2025-04-23T15:24:22.422Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\synth_dist\\synthdist\\distribution_analysis.py",
+            "fileType": ".py",
+            "linesAdded": 70,
+            "linesRemoved": 0,
+            "projectName": "synth_dist",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-23T15:27:51.605Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\synth_dist\\synthdist\\distribution_analysis.py",
+            "fileType": ".py",
+            "linesAdded": 9,
+            "linesRemoved": 0,
+            "projectName": "synth_dist",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 1,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\tony.dunsworth\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-04-23T15:27:35.923Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 191,
+            "linesRemoved": 0,
+            "projectName": "synth_dist",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 4,
+            "language": "json"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 1,
+        "json": 4
+      },
+      "changeFrequency": {
+        "11": 5
+      },
+      "topFiles": [
+        "c:\\Users\\tony.dunsworth\\projects\\synth_dist\\synthdist\\distribution_analysis.py",
+        "c:\\Users\\tony.dunsworth\\AppData\\Roaming\\Code\\User\\settings.json"
+      ],
+      "averageChangeSize": 90
     }
   },
   "totalActiveTime": 3,
