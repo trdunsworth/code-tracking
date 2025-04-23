@@ -1,0 +1,61 @@
+{
+  "date": "2025-04-23",
+  "projects": {
+    "synth_911data_gen": {
+      "totalLinesAdded": 253,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 3,
+      "files": {
+        "c:\\Users\\tony.dunsworth\\projects\\synth_911data_gen\\synth911gen.py": [
+          {
+            "timestamp": "2025-04-23T14:37:55.232Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\synth_911data_gen\\synth911gen.py",
+            "fileType": ".py",
+            "linesAdded": 247,
+            "linesRemoved": 0,
+            "projectName": "synth_911data_gen",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-23T14:39:57.145Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\synth_911data_gen\\synth911gen.py",
+            "fileType": ".py",
+            "linesAdded": 6,
+            "linesRemoved": 0,
+            "projectName": "synth_911data_gen",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
+            "language": "py"
+          }
+        ]
+      },
+      "languageStats": {
+        "py": 3
+      },
+      "changeFrequency": {
+        "10": 3
+      },
+      "topFiles": [
+        "c:\\Users\\tony.dunsworth\\projects\\synth_911data_gen\\synth911gen.py"
+      ],
+      "averageChangeSize": 126.5
+    }
+  },
+  "totalActiveTime": 3,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    10
+  ],
+  "mostUsedLanguages": [
+    "py"
+  ]
+}
