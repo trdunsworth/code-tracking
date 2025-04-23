@@ -77,9 +77,9 @@
       "averageChangeSize": 126.5
     },
     "synth_dist": {
-      "totalLinesAdded": 270,
+      "totalLinesAdded": 277,
       "totalLinesRemoved": 0,
-      "totalActiveTime": 5,
+      "totalActiveTime": 8,
       "files": {
         "c:\\Users\\tony.dunsworth\\projects\\synth_dist\\synthdist\\distribution_analysis.py": [
           {
@@ -108,6 +108,20 @@
               "removed": []
             },
             "duration": 1,
+            "language": "py"
+          },
+          {
+            "timestamp": "2025-04-23T15:30:02.878Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\synth_dist\\synthdist\\distribution_analysis.py",
+            "fileType": ".py",
+            "linesAdded": 7,
+            "linesRemoved": 0,
+            "projectName": "synth_dist",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 3,
             "language": "py"
           }
         ],
