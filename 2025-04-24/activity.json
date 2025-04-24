@@ -2,7 +2,7 @@
   "date": "2025-04-24",
   "projects": {
     "synth_911data_gen": {
-      "totalLinesAdded": 337,
+      "totalLinesAdded": 748,
       "totalLinesRemoved": 0,
       "totalActiveTime": 0,
       "files": {
@@ -26,6 +26,22 @@
             "fileName": "c:\\Users\\tony.dunsworth\\projects\\synth_911data_gen\\app.py",
             "fileType": ".py",
             "linesAdded": 336,
+            "linesRemoved": 0,
+            "projectName": "synth_911data_gen",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "py"
+          }
+        ],
+        "c:\\Users\\tony.dunsworth\\projects\\synth_911data_gen\\synth911gen.py": [
+          {
+            "timestamp": "2025-04-24T14:35:33.768Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\projects\\synth_911data_gen\\synth911gen.py",
+            "fileType": ".py",
+            "linesAdded": 411,
             "linesRemoved": 0,
             "projectName": "synth_911data_gen",
             "content": {
