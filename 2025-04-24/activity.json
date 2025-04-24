@@ -2,7 +2,7 @@
   "date": "2025-04-24",
   "projects": {
     "synth_911data_gen": {
-      "totalLinesAdded": 806,
+      "totalLinesAdded": 997,
       "totalLinesRemoved": 0,
       "totalActiveTime": 7,
       "files": {
@@ -92,6 +92,22 @@
             },
             "duration": 5,
             "language": "py"
+          }
+        ],
+        "c:\\Users\\tony.dunsworth\\AppData\\Roaming\\Code\\User\\settings.json": [
+          {
+            "timestamp": "2025-04-24T14:57:01.743Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\AppData\\Roaming\\Code\\User\\settings.json",
+            "fileType": ".json",
+            "linesAdded": 191,
+            "linesRemoved": 0,
+            "projectName": "synth_911data_gen",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "json"
           }
         ]
       },
