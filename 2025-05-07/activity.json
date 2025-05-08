@@ -1,0 +1,47 @@
+{
+  "date": "2025-05-07",
+  "projects": {
+    "Updated Queries": {
+      "totalLinesAdded": 11,
+      "totalLinesRemoved": 0,
+      "totalActiveTime": 0,
+      "files": {
+        "c:\\Users\\tony.dunsworth\\OneDrive - City of Alexandria\\SQL Server Management Studio\\Updated Queries\\tow_complaints.sql": [
+          {
+            "timestamp": "2025-05-07T15:32:49.087Z",
+            "fileName": "c:\\Users\\tony.dunsworth\\OneDrive - City of Alexandria\\SQL Server Management Studio\\Updated Queries\\tow_complaints.sql",
+            "fileType": ".sql",
+            "linesAdded": 11,
+            "linesRemoved": 0,
+            "projectName": "Updated Queries",
+            "content": {
+              "added": [],
+              "removed": []
+            },
+            "duration": 0,
+            "language": "sql"
+          }
+        ]
+      },
+      "languageStats": {
+        "sql": 0
+      },
+      "changeFrequency": {
+        "11": 0
+      },
+      "topFiles": [
+        "c:\\Users\\tony.dunsworth\\OneDrive - City of Alexandria\\SQL Server Management Studio\\Updated Queries\\tow_complaints.sql"
+      ],
+      "averageChangeSize": 11
+    }
+  },
+  "totalActiveTime": 0,
+  "totalProjects": 1,
+  "totalFiles": 1,
+  "mostActiveHours": [
+    11
+  ],
+  "mostUsedLanguages": [
+    "sql"
+  ]
+}
